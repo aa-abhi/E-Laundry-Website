@@ -1,5 +1,5 @@
 # E-Laundry-Website
-	It’s very responsive and user friendly which include three major panel like-
+	It’s very responsive and user friendly which include three major panel with local database like-
 
 	Admin panel
 	Laundry-man panel
